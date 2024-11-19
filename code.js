@@ -1,4 +1,3 @@
-//used prior fib code to create this
 function fib(n){
     sequence = new Array(n);
     if (n >= 0) sequence[0] = 0;//first part of invariant
