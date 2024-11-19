@@ -2,7 +2,7 @@
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice." 
 
-Used Prior work at: https://github.com/COSC3020/fibonacci-invariants-Powerfuljackell-1
+Used prior approved work at: https://github.com/COSC3020/fibonacci-invariants-Powerfuljackell-1
 
 Recall the definition of the Fibonacci series: the first number is 0, the second
 1, and each subsequent number is the sum of the two numbers preceding it.
